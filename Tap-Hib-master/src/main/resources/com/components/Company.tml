@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+>
+<head>
+  <meta charset="utf-8"/>
+  <title>App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <p class="navbar-brand">Kane LPI</p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+
+  <t:body />
+
+  <hr />
+
+  <footer>
+    <p>&copy; Developed By <strong>Navneet Singh</strong></p>
+  </footer>
+
+</div>
+
+</body>
+</html>
