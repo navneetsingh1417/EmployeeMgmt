@@ -100,7 +100,7 @@ of testing facilities designed for use with TestNG (http://testng.org/), so it's
             <dependency>
                 <groupId>org.springframework</groupId>
                 <artifactId>spring-beans</artifactId>
-                <version>4.3.3.RELEASE</version>
+                <version>5.3.18</version>
             </dependency>
             <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
             <dependency>
